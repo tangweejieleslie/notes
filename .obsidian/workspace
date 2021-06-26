@@ -1,15 +1,26 @@
 {
   "main": {
-    "id": "ff04b30ffed871e1",
+    "id": "74abc0d45e52c195",
     "type": "split",
     "children": [
       {
-        "id": "470fdcdbf9a777f0",
+        "id": "b167abcc53b8456a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "this is a linked page.md",
+            "file": "index.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "cf7280d822167993",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "About Notes.md",
             "mode": "source"
           }
         }
@@ -18,15 +29,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "50633137f02d3a53",
+    "id": "a0c694c56f6d88ee",
     "type": "split",
     "children": [
       {
-        "id": "348cbbb59ff58b5c",
+        "id": "e1b9591707844ae1",
         "type": "tabs",
         "children": [
           {
-            "id": "54d3f70999523be2",
+            "id": "8f393a15929349aa",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +45,7 @@
             }
           },
           {
-            "id": "1823ad810f0057bc",
+            "id": "f85c4b5e9668e37a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,20 +66,20 @@
     "width": 300
   },
   "right": {
-    "id": "e6b17198c451b870",
+    "id": "f819aa18f60debbb",
     "type": "split",
     "children": [
       {
-        "id": "1658e4f957304ac2",
+        "id": "633a5734d1b33c4b",
         "type": "tabs",
         "children": [
           {
-            "id": "1e8fff518ed44a3a",
+            "id": "1a09f57acb032aa5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "this is a linked page.md",
+                "file": "About Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +97,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "470fdcdbf9a777f0",
+  "active": "cf7280d822167993",
   "lastOpenFiles": [
-    "Untitled.md"
+    "unfiled/About Notes.md",
+    "index.md",
+    "unfiled/Untitled.md",
+    "README.md",
+    "faq.md"
   ]
 }
